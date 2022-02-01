@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+<html lang="en">
 
 <head>
   @include('user_view.includes.meta')

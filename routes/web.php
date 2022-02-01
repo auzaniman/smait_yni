@@ -35,15 +35,6 @@ Route::resource('ppdb_smait', SMAITController::class);
 //   Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
 
 //   // Table
-//   Route::get('/kbit', [AdminController::class, 'kbit'])->name('kbit');
-
-//   Route::get('/tkit1', [AdminController::class, 'tkit1'])->name('tkit1');
-
-//   Route::get('/tkit2', [AdminController::class, 'tkit2'])->name('tkit2');
-
-//   Route::get('/sdit', [AdminController::class, 'sdit'])->name('sdit');
-
-//   Route::get('/smpit', [AdminController::class, 'smpit'])->name('smpit');
 
 //   Route::get('/smait', [AdminController::class, 'smait'])->name('smait');
 // });
