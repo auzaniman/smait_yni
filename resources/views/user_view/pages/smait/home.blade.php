@@ -15,25 +15,25 @@ SMAIT Nurul 'Ilmi Tenggarong
           <div class="row">
             <div class="col-md-4 position-relative">
               <div class="p-3 text-center">
-                <h1 class="text-gradient text-primary"><span id="state1" countTo="0">0</span>+</h1>
+                <h1 class="text-gradient text-success"><span id="state1" countTo="0">0</span>+</h1>
                 <h5 class="mt-3">Total Siswa</h5>
-                <p class="text-sm font-weight-normal">-</p>
+                <p class="text-sm font-weight-normal">Siswa-siswi aktif belajar disekolah kami</p>
               </div>
               <hr class="vertical dark">
             </div>
             <div class="col-md-4 position-relative">
               <div class="p-3 text-center">
-                <h1 class="text-gradient text-primary"> <span id="state2" countTo="0">0</span>+</h1>
-                <h5 class="mt-3">Ekstrakurikuler</h5>
-                <p class="text-sm font-weight-normal">-</p>
+                <h1 class="text-gradient text-success"> <span id="state2" countTo="0">0</span>+</h1>
+                <h5 class="mt-3">Fasilitas</h5>
+                <p class="text-sm font-weight-normal">Fasilitas yang nyaman dan representatif</p>
               </div>
               <hr class="vertical dark">
             </div>
             <div class="col-md-4 position-relative">
               <div class="p-3 text-center">
-                <h1 class="text-gradient text-primary"> <span id="state3" countTo="0">0</span>+</h1>
+                <h1 class="text-gradient text-success"> <span id="state3" countTo="0">0</span>+</h1>
                 <h5 class="mt-3">Prestasi</h5>
-                <p class="text-sm font-weight-normal">-</p>
+                <p class="text-sm font-weight-normal">Prestasi terbaik putra-putri kami</p>
               </div>
             </div>
           </div>
@@ -42,21 +42,34 @@ SMAIT Nurul 'Ilmi Tenggarong
     </div>
   </section>
 
-  <!-- Benefit -->
+  {{-- Visi --}}
+  <div class="container">
+    <div class="row">
+      <div class="row justify-content-center text-center my-sm-5">
+        <div class="col-lg-6">
+          <span class="badge bg-success mb-3">Visi SMAIT</span>
+          <h2 class="text-dark mb-0">Visi Sekolah Kami</h2>
+          <p class="lead">"Menjadi lembaga pendidikan unggul dan profesional dalam mencetak SDM Islami yang berkarakter, kompetitif dan berwawasan global." </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Misi -->
   <section class="py-5">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4 mb-5 mb-lg-0">
           <div class="rotating-card-container">
-            <div class="card card-rotate card-background card-background-mask-success shadow-primary mt-md-0 mt-5">
-              <div class="front front-background" style="background-image: url(frontend/assets/img/YNI/SMAIT/1.jpeg); background-size: cover;">
+            <div class="card card-rotate card-background card-background-mask-success shadow-success mt-md-0 mt-5">
+              <div class="front front-background" style="background-image: url(frontend/assets/img/SMAIT/3.jpeg); background-size: cover;">
                 <div class="card-body py-7 text-center">
                   <i class="material-icons text-white text-4xl my-3">touch_app</i>
                   <h3 class="text-white">Jelajahi <br /> SMAIT Nurul 'Ilmi</h3>
                   <p class="text-white opacity-8">Mengenal program dan bidang SMAIT dalam pengembangan didunia pendidikan.</p>
                 </div>
               </div>
-              <div class="back back-background" style="background-image: url(frontend/assets/img/YNI/SMAIT/2.jpeg); background-size: cover;">
+              <div class="back back-background" style="background-image: url(frontend/assets/img/SMAIT/2.jpeg); background-size: cover;">
                 <div class="card-body pt-7 text-center">
                   <h3 class="text-white">Jelajahi SMAIT</h3>
                   <p class="text-white opacity-8">Mengenal program dan bidang SMAIT dalam pengembangan didunia pendidikan.</p>
@@ -69,31 +82,24 @@ SMAIT Nurul 'Ilmi Tenggarong
           <div class="row justify-content-start">
             <div class="col-md-6">
               <div class="info">
-                <i class="material-icons text-gradient text-success text-3xl">content_copy</i>
-                <h5 class="font-weight-bolder mt-3">Pendidikan</h5>
-                <p class="pe-5">Berkomitmen mengimplementasikan sistem pendidikan Islam secara terpadu untuk melahirkan generasi muslim terbaik menuju terwujudnya kejayaan Islam.</p>
+                <i class="material-icons text-gradient text-success text-3xl">flip_to_front</i>
+                <h5 class="font-weight-bolder mt-2">Pendidikan Integrasi Al-Qur'an</h5>
+                <p class="pe-5">Menyelenggarakan Pendidikan yang mengintegrasikan ayat qauliyah dan qauniyah ; iman, ilmu dan amal ; ruhiyah dan jasadiyah dalam lingkungan pendidikan yang aman, nyaman dan Islami.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info">
                 <i class="material-icons text-gradient text-success text-3xl">flip_to_front</i>
-                <h5 class="font-weight-bolder mt-3">Ekonomi</h5>
-                <p class="pe-3">-.</p>
+                <h5 class="font-weight-bolder mt-2">Pendidikan Karakter</h5>
+                <p class="pe-3">Menyelenggarakan pendidikan menengah umum untuk menghasilkan lulusan yang berakidah lurus, beribadah secara benar, berakhlaq mulia, berpikir ilmiah, berkepribadian mandiri, kreatif, disiplin serta berbadan sehat, kuat dan terampil.</p>
               </div>
             </div>
           </div>
-          <div class="row justify-content-start mt-5">
-            <div class="col-md-6 mt-3">
-              <i class="material-icons text-gradient text-success text-3xl">price_change</i>
-              <h5 class="font-weight-bolder mt-3">Mitra</h5>
-              <p class="pe-5">-.</p>
-            </div>
-            <div class="col-md-6 mt-3">
-              <div class="info">
-                <i class="material-icons text-gradient text-success text-3xl">devices</i>
-                <h5 class="font-weight-bolder mt-3">Program</h5>
-                <p class="pe-3">-.</p>
-              </div>
+          <div class="row justify-content-start mt-3">
+            <div class="col-md-6 mt-2">
+              <i class="material-icons text-gradient text-success text-3xl">flip_to_front</i>
+              <h5 class="font-weight-bolder mt-3">Generasi Pemuda Muslim</h5>
+              <p class="pe-5">Mewujudkan generasi muda muslim berilmu, berwawasan luas dan global, bermanfaat bagi ummat serta kejayaan Islam dan kamu muslimin.</p>
             </div>
           </div>
         </div>
@@ -103,17 +109,6 @@ SMAIT Nurul 'Ilmi Tenggarong
 
   {{-- Jelajah --}}
   <section class="py-2">
-    <div class="container">
-      <div class="row">
-        <div class="row justify-content-center text-center my-sm-5">
-          <div class="col-lg-6">
-            <span class="badge bg-primary mb-3">Visi SMAIT</span>
-            <h2 class="text-dark mb-0">Visi Sekolah Kami</h2>
-            <p class="lead">"Menjadi lembaga pendidikan unggul dan profesional dalam mencetak SDM Islami yang berkarakter, kompetitif dan berwawasan global." </p>
-          </div>
-        </div>
-      </div>
-    </div>
     <div class="container mt-sm-5 mt-3">
       <div class="row">
         <div class="col-lg-3">
@@ -437,8 +432,8 @@ SMAIT Nurul 'Ilmi Tenggarong
                       <div class="container">
                         <div class="row">
                           <div class="col-lg-6 my-auto">
-                            <h3 class="mt-5 mt-lg-0">Apa yang anda dapat?</h3>
-                            <p class="pe-5">Berikut adalah fasilitas SMAIT Nurul Ilmi Tenggarong.</p>
+                            <h3 class="mt-5 mt-lg-0">Kegiatan Sekolah Unggulan</h3>
+                            <p class="pe-5">Berikut adalah program unggulan SMAIT Nurul Ilmi Tenggarong.</p>
                           </div>
 
                           <div class="col-lg-6 mt-lg-0 mt-2 ps-lg-0 ps-0">
@@ -447,7 +442,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Ruang Kelas Representatif</p>
+                                <p class="fw-bold">Kelas Tahfidz Al-Quran</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -455,7 +450,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Masjid Besar</p>
+                                <p class="fw-bold">Muhadharah</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -463,7 +458,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Laboratorium Komputer dan IPA</p>
+                                <p class="fw-bold">Bina Pribadi Islam</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -471,7 +466,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Lapangan Voly</p>
+                                <p class="fw-bold">Baca Quran Metode Qiroaty</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -479,7 +474,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Asrama Putra dan Putri</p>
+                                <p class="fw-bold">Supercamp Pramuka SIT</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -487,7 +482,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Perpustakaan</p>
+                                <p class="fw-bold">Olimpiade Sains Nasional</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -495,39 +490,15 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Lapangan Futsal</p>
+                                <p class="fw-bold">Leadership Training</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
-                              <div class="icon icon-shape  bg-gradient-info shadow-info text-center">
-                                <i class="fas fa-hourglass opacity-10"></i>
-                              </div>
-                              <div class="description ps-3">
-                                <p class="">Lapangan Basket</p>
-                              </div>
-                            </div>
-                            <div class="p-3 info-horizontal">
-                              <div class="icon icon-shape  bg-gradient-info shadow-info text-center">
-                                <i class="fas fa-hourglass opacity-10"></i>
-                              </div>
-                              <div class="description ps-3">
-                                <p class="">Mini Market</p>
-                              </div>
-                            </div>
-                            <div class="p-3 info-horizontal">
-                              <div class="icon icon-shape  bg-gradient-info shadow-info text-center">
-                                <i class="fas fa-hourglass opacity-10"></i>
-                              </div>
-                              <div class="description ps-3">
-                                <p class="">ATM 24 Jam</p>
-                              </div>
-                            </div>
-                            <div class="p-3 info-horizontal">
-                              <div class="icon icon-shape  bg-gradient-info shadow-info text-center">
+                              <div class="icon icon-shape bg-gradient-info shadow-info text-center">
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3 mb-5">
-                                <p class="">Kantin Sehat</p>
+                                <p class="fw-bold">Siswa Masuk Desa</p>
                               </div>
                             </div>
                           </div>
@@ -566,8 +537,8 @@ SMAIT Nurul 'Ilmi Tenggarong
                       <div class="container">
                         <div class="row">
                           <div class="col-lg-6 my-auto">
-                            <h3 class="mt-5 mt-lg-0">Apa yang anda dapat?</h3>
-                            <p class="pe-5">Berikut adalah fasilitas SMAIT Nurul Ilmi Tenggarong.</p>
+                            <h3 class="mt-5 mt-lg-0">Kegiatan Ekstrakurikuler</h3>
+                            <p class="pe-5">Berikut adalah kegiatan Ekstra pengembangan potensi siswa SMAIT Nurul Ilmi Tenggarong.</p>
                           </div>
 
                           <div class="col-lg-6 mt-lg-0 mt-2 ps-lg-0 ps-0">
@@ -576,7 +547,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Ruang Kelas Representatif</p>
+                                <p class="fw-bold">Pramuka SIT</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -584,7 +555,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Masjid Besar</p>
+                                <p class="fw-bold">Forum Pena Remaja</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -592,7 +563,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Laboratorium Komputer dan IPA</p>
+                                <p class="fw-bold">Arabic Club</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -600,7 +571,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Lapangan Voly</p>
+                                <p class="fw-bold">Desain Grafis</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -608,7 +579,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Asrama Putra dan Putri</p>
+                                <p class="fw-bold">English Club</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -616,7 +587,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Perpustakaan</p>
+                                <p class="fw-bold">Nasyid Akustik</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -624,7 +595,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Lapangan Futsal</p>
+                                <p class="fw-bold">Bela Diri</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -632,7 +603,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Lapangan Basket</p>
+                                <p class="fw-bold">Tenis Meja</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -640,7 +611,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">Mini Market</p>
+                                <p class="fw-bold">Paskibraka</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -648,7 +619,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3">
-                                <p class="">ATM 24 Jam</p>
+                                <p class="fw-bold">Habsiy</p>
                               </div>
                             </div>
                             <div class="p-3 info-horizontal">
@@ -656,7 +627,7 @@ SMAIT Nurul 'Ilmi Tenggarong
                                 <i class="fas fa-hourglass opacity-10"></i>
                               </div>
                               <div class="description ps-3 mb-5">
-                                <p class="">Kantin Sehat</p>
+                                <p class="fw-bold">Futsal</p>
                               </div>
                             </div>
                           </div>
@@ -750,14 +721,14 @@ SMAIT Nurul 'Ilmi Tenggarong
               <div class="col-lg-4 col-md-6 col-12 mt-n5">
                 <a href="javascript:;">
                   <div class="p-3 pe-md-0">
-                    <img class="w-100 border-radius-md shadow-lg" src="{{ url('frontend/assets/img/YNI/dewan2.jpeg')}}" alt="image">
+                    <img class="w-100 border-radius-md shadow-lg" src="{{ url('frontend/assets/img/user.jpg')}}" alt="image">
                   </div>
                 </a>
               </div>
               <div class="col-lg-8 col-md-6 col-12 my-auto">
                 <div class="card-body ps-lg-0">
-                  <h5 class="mb-0">H.M.  Ali Hamdi, ZA, S.Ag.</h5>
-                  <h6 class="text-info">Ketua Dewan Pembina</h6>
+                  <h5 class="mb-0">Dewan Guru</h5>
+                  <h6 class="text-info">Kepala Sekolah</h6>
                   <p class="mb-0">Pesan-pesan.</p>
                 </div>
               </div>
@@ -770,14 +741,14 @@ SMAIT Nurul 'Ilmi Tenggarong
               <div class="col-lg-4 col-md-6 col-12 mt-n5">
                 <a href="javascript:;">
                   <div class="p-3 pe-md-0">
-                    <img class="w-100 border-radius-md shadow-lg" src="{{ url('frontend/assets/img/YNI/dewan.jpeg')}}" alt="image">
+                    <img class="w-100 border-radius-md shadow-lg" src="{{ url('frontend/assets/img/user.jpg')}}" alt="image">
                   </div>
                 </a>
               </div>
               <div class="col-lg-8 col-md-6 col-12 my-auto">
                 <div class="card-body ps-lg-0">
-                  <h5 class="mb-0">DR. H. Saiful Aduar, M.Pd</h5>
-                  <h6 class="text-info">Anggota Dewan Pembina</h6>
+                  <h5 class="mb-0">Dewan Guru</h5>
+                  <h6 class="text-info">Wakil Kepala Sekolah</h6>
                   <p class="mb-0">Pesan-pesan.</p>
                 </div>
               </div>
@@ -798,7 +769,7 @@ SMAIT Nurul 'Ilmi Tenggarong
               </div>
               <div class="col-lg-8 col-md-6 col-12 my-auto">
                 <div class="card-body ps-lg-0">
-                  <h5 class="mb-0">Dewan Pembina</h5>
+                  <h5 class="mb-0">Dewan Guru</h5>
                   <h6 class="text-info">-</h6>
                   <p class="mb-0">-.</p>
                 </div>
@@ -818,7 +789,7 @@ SMAIT Nurul 'Ilmi Tenggarong
               </div>
               <div class="col-lg-8 col-md-6 col-12 my-auto">
                 <div class="card-body ps-lg-0">
-                  <h5 class="mb-0">Dewan Pembina</h5>
+                  <h5 class="mb-0">Dewan Guru</h5>
                   <h6 class="text-info">-</h6>
                   <p class="mb-0">-.</p>
                 </div>
@@ -925,9 +896,9 @@ SMAIT Nurul 'Ilmi Tenggarong
         <div class="row">
           <div class="col-md-7 mx-auto text-center">
             <h3 class="text-white mb-0">SMAIT Nurul 'Ilmi Tenggarong</h3>
-            <h3 class="text-white"></h3>
+            <h3 class="text-white">Daftarkan segera putra putri anda disekolah SMAIT Nurul 'Ilmi</h3>
             <p class="text-white mb-5">Berkomitmen mengimplementasikan sistem pendidikan Islam secara terpadu untuk melahirkan generasi muslim terbaik menuju terwujudnya kejayaan Islam.</p>
-            <a href="" class="btn btn-primary btn-lg mb-3 mb-sm-0">Daftar Akun</a>
+            <a href="https://ynikoetaikartanagara.com/ppdb/smait_create" class="btn btn-info btn-lg mb-3 mb-sm-0">Pendaftaran Online SMAIT</a>
           </div>
         </div>
       </div>
@@ -939,7 +910,7 @@ SMAIT Nurul 'Ilmi Tenggarong
     <div class="container">
       <div class="row">
         <div class="col-md-7 col-12 my-auto">
-          <h3 class="text-gradient text-primary mb-0">SMAIT Nurul 'Ilmi</h3>
+          <h3 class="text-gradient text-success mb-0">SMAIT Nurul 'Ilmi</h3>
           <h3>Tenggarong</h3>
           <p class="pe-md-5 mb-4">
             SMAIT Nurul ‘Ilmi Tenggarong berdiri pada tahun 2012 merupakan SMA berkonsep Islam Terpadu pertama berdiri di Kalimantan. SMAIT Nurul ’Ilmi Tenggarong menyelenggarakan pendidikan sesuai dengan kurikulum nasional yang diperkaya dengan nilai-nilai Islam. Berkomitmen mengimplementasikan sistem pendidikan Islam secara terpadu untuk melahirkan generasi muslim terbaik menuju terwujudnya kejayaan Islam.
@@ -961,7 +932,7 @@ SMAIT Nurul 'Ilmi Tenggarong
         <div class="col">
           <div class="card box-shadow-xl overflow-hidden mb-5">
             <div class="row">
-              <div class="col-lg-5 position-relative bg-cover px-0" style="background-image: url('../assets/img/examples/blog2.jpg')" loading="lazy">
+              <div class="col-lg-5 position-relative bg-cover px-0" style="background-image: url('frontend/material_kit/assets/img/examples/blog2.jpg')" loading="lazy">
                 <div class="z-index-2 text-center d-flex h-100 w-100 d-flex m-auto justify-content-center">
                   <div class="mask bg-gradient-dark opacity-8"></div>
                   <div class="p-6 ps-sm-6 position-relative text-start z-index-2">

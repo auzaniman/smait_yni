@@ -33,29 +33,29 @@
 
       <div class="col-md-2 col-sm-6 col-6 mb-4">
         <div>
-          <h6 class="text-sm">Program</h6>
+          <h6 class="text-sm">Web Resmi</h6>
           <ul class="flex-column ms-n3 nav">
             <li class="nav-item">
               <a class="nav-link" href="" target="_blank">
-                -
+                Visi Misi
               </a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link" href="" target="_blank">
-                -
+                Jelajah Sekolah
               </a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link" href="" target="_blank">
-                -
+                Pesan Guru
               </a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link" href="" target="_blank">
-                -
+                Kotak Saran
               </a>
             </li>
           </ul>
@@ -64,23 +64,17 @@
 
       <div class="col-md-2 col-sm-6 col-6 mb-4">
         <div>
-          <h6 class="text-sm">Ekstrakurikuler</h6>
+          <h6 class="text-sm">Galeri</h6>
           <ul class="flex-column ms-n3 nav">
             <li class="nav-item">
               <a class="nav-link" href="" target="_blank">
-                -
+                Foto
               </a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link" href="" target="_blank">
-                -
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="" target="_blank">
-                -
+                Video
               </a>
             </li>
           </ul>
@@ -89,32 +83,25 @@
 
       <div class="col-md-2 col-sm-6 col-6 mb-4">
         <div>
-          <h6 class="text-sm">Kehumasan</h6>
+          <h6 class="text-sm">Informasi</h6>
           <ul class="flex-column ms-n3 nav">
             <li class="nav-item">
               <a class="nav-link" href="" target="_blank">
-                -
+                Berita Terkini
               </a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link" href="" target="_blank">
-                -
+                Informasi Kegiatan
               </a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link" href="" target="_blank">
-                -
+                Informasi PPDB
               </a>
             </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="" target="_blank">
-                -
-              </a>
-            </li>
-
           </ul>
         </div>
       </div>
@@ -137,7 +124,7 @@
 
             <li class="nav-item">
               <a class="nav-link" href="" target="_blank">
-                -
+                Jl. Ahmad Dahlan RT 12, Keluharan Baru, Tenggarong, Kab. Kutai Kartanegara
               </a>
             </li>
           </ul>
