@@ -28,11 +28,9 @@ class SMAITController extends Controller
     public function create()
     {
       $smait = SMAIT::all();
-      $schools = School::all();
 
       return view('user_view.pages.ppdb.form.form_smait', [
         'smait' => $smait,
-        'schools' => $schools,
         ]);
     }
 
