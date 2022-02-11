@@ -15,7 +15,7 @@ SMAIT Nurul 'Ilmi Tenggarong
           <div class="row">
             <div class="col-md-4 position-relative">
               <div class="p-3 text-center">
-                <h1 class="text-gradient text-success"><span id="state1" countTo="0">0</span>+</h1>
+                <h1 class="text-gradient text-success"><span id="state1" countTo="0">300</span>+</h1>
                 <h5 class="mt-3">Total Siswa</h5>
                 <p class="text-sm font-weight-normal">Siswa-siswi aktif belajar disekolah kami</p>
               </div>
@@ -23,7 +23,7 @@ SMAIT Nurul 'Ilmi Tenggarong
             </div>
             <div class="col-md-4 position-relative">
               <div class="p-3 text-center">
-                <h1 class="text-gradient text-success"> <span id="state2" countTo="0">0</span>+</h1>
+                <h1 class="text-gradient text-success"> <span id="state2" countTo="0">11</span>+</h1>
                 <h5 class="mt-3">Fasilitas</h5>
                 <p class="text-sm font-weight-normal">Fasilitas yang nyaman dan representatif</p>
               </div>
@@ -31,7 +31,7 @@ SMAIT Nurul 'Ilmi Tenggarong
             </div>
             <div class="col-md-4 position-relative">
               <div class="p-3 text-center">
-                <h1 class="text-gradient text-success"> <span id="state3" countTo="0">0</span>+</h1>
+                <h1 class="text-gradient text-success"> <span id="state3" countTo="0">20</span>+</h1>
                 <h5 class="mt-3">Prestasi</h5>
                 <p class="text-sm font-weight-normal">Prestasi terbaik putra-putri kami</p>
               </div>
